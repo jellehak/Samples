@@ -86,7 +86,7 @@ Native samples
 #### [BebopSample](https://github.com/ARDroneSDK3/Samples/tree/master/Unix/BebopSample)
 This example enables you to **connect** to a Bebop drone and **send and receive commands** to pilot it and get its battery level. It also **receives the video stream**. <br/>
 
-To use it, you'll need to [download](http://developer.parrot.com/docs/SDK3/#download-all-sources) and [compile your own sdk](http://developer.parrot.com/docs/SDK3/#how-to-build-the-sdk).<br/>
+To use it, you'll need to [download](http://developer.parrot.com/docs/SDK3/index.html#download-all-sources) and [compile your own sdk](http://developer.parrot.com/docs/SDK3/index.html#how-to-build-the-sdk).<br/>
 Once done, in the sdk root folder, you can build the sample:<br/>
 `./build.sh -p arsdk-native -t build-sample-BebopSample -j`
 Then run it:<br/>
